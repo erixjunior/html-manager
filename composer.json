@@ -1,0 +1,32 @@
+{
+    "name": "erixjunior/html-manager",
+    "type": "library",
+    "keywords": [
+        "html-manager"
+		"table-manager",
+        "generator"
+    ],
+    "license": "MIT",
+    "description": "generator html code",
+    "authors": [
+        {
+            "name": "erix",
+            "email": "erixvantheo@ymail.com"
+        }
+    ],
+    "support": {
+        "email": "erixvantheo@ymail.com",
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "suggest": {
+        "ext-event": "For ext plug-in. "
+    },
+    "autoload": {
+        "psr-4": {
+            "html-manager\\": "./"
+        }
+    },
+    "minimum-stability": "dev"
+}
