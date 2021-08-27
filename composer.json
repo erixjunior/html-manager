@@ -2,8 +2,8 @@
     "name": "erixjunior/html-manager",
     "type": "library",
     "keywords": [
-        "html-manager"
-		"table-manager",
+        "html-manager",
+	"table-manager",
         "generator"
     ],
     "license": "MIT",
