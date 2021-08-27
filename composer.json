@@ -11,12 +11,15 @@
     "authors": [
         {
             "name": "erix",
-            "email": "erixvantheo@ymail.com"
+            "email": "erixvantheo@ymail.com",
+	    "homepage": "http://13.250.54.86",
+            "role": "Developer"
         }
     ],
     "support": {
         "email": "erixvantheo@ymail.com"
     },
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3"
     },
@@ -27,6 +30,6 @@
         "psr-4": {
             "html-manager\\": "./"
         }
-    },
-    "minimum-stability": "dev"
+    }
+    
 }
