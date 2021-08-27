@@ -1,7 +1,11 @@
 {
-    "name": "htmlmanager",
+    "name": "erixjunior/html-manager",
     "type": "library",
     "keywords": [
+	"package",
+        "versions",
+        "composer",
+        "release",
         "html-manager",
 	"table-manager",
         "generator"
@@ -15,6 +19,14 @@
             "role": "Developer"
         }
     ],
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "v1.0.0.x-dev"
+	}
+    },
     "support": {
         "email": "erixvantheo@ymail.com"
     },
@@ -26,7 +38,7 @@
     },
     "autoload": {
         "psr-4": {
-            "htmlmanager\\": "./"
+            "html-manager\\": "/"
         }
     },
     "minimum-stability": "dev"
