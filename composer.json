@@ -29,5 +29,5 @@
             "html-manager\\": "./"
         }
     }
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
